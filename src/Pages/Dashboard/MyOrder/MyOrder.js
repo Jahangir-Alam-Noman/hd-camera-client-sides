@@ -19,7 +19,7 @@ const MyOrder = () => {
             <th>Username</th>
             <th>Username</th>
             <th>Username</th>
-            <th>Username</th>
+            <th>UserNoman</th>
           </tr>
         </thead>
         <tbody>
